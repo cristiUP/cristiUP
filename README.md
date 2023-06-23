@@ -15,7 +15,7 @@
 
 - 📫 You can reach to me via **<a href="https://linkedin.com/in/cristi-radescu" target="blank">LinkedIn</a>**
 
-<p align="center"><a href="https://www.buymeacoffee.com/cristiUP"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="cristiUP" /></a></p><br>
+<p align="center"><a href="https://www.buymeacoffee.com/cristiUP"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="cristiUP" /></a></p>
 
 
 <!--
