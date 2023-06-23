@@ -13,7 +13,7 @@
 
 - 🤝 I am looking for opportunities to join a dynamic and innovative team where I can apply my skills and grow as a developer.
 
-- 📫 You can reach to me via **<a href="https://linkedin.com/in/cristi-radescu" target="blank">LinkedIn</a>**
+- 📫 You can reach to me via **<a href="https://linkedin.com/in/cristi-radescu" target="_blank">LinkedIn</a>**
 
 <p align="center"><a href="https://www.buymeacoffee.com/cristiUP"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="cristiUP" /></a></p>
 
